@@ -1,4 +1,4 @@
-# Portofolio Andi Pratama
+# Portofolio Ananditya Zahra
 Website portofolio pribadi yang saya buat di Kelas Industri UBIG (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
@@ -14,4 +14,4 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 - Git dan GitHub
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Ananditya Zara, SMKS BRANTAS KARANGKATES
+- Dibuat oleh: Ananditya Zahra, SMKS BRANTAS KARANGKATES
