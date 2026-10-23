@@ -2,8 +2,8 @@
 Website portofolio pribadi yang saya buat di Kelas Industri UBIG (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
-![Tampilan beranda portofolio](img/jadwal.png)
-![Tampilan beranda portofolio](img/portofolio.png)
+![Tampilan beranda portofolio](img/jadwal.PNG)
+![Tampilan beranda portofolio](img/portofolio.PNG)
 ![Tampilan beranda portofolio](img/proyek-kontak.png)
 ## Fitur
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
