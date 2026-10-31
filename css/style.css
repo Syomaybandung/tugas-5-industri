@@ -15,7 +15,11 @@ img {
 }
 
 /* 2. Dasar halaman: warna dan huruf */
+/* PENANDA FOOTER: body dibuat setinggi layar dan disusun vertikal. */
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   font-family: "Inter", Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.6;
@@ -103,7 +107,9 @@ nav a {
 }
 
 /* 4. Isi utama, hero, dan kartu */
+/* PENANDA FOOTER: main mengisi ruang kosong sebelum footer. */
 main {
+  flex: 1;
   padding: 1.5rem 0;
 }
 

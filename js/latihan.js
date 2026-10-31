@@ -60,11 +60,7 @@ if (rataRata >= 90) {
 console.log(`Predikat: ${predikatNilai}`);
 
 //Pesan kelulusan 
-if (lulus) {
-    console.log("Selamat, kamu lulus KKM");
-} else {
-    console.log("Tetap semangat, ikuti remedial ya.")
-}
+
 
 // 4. Hasil nilai Rana
 const rataRataRana = hitungRataRata(nilaiTugas, nilaiUts, nilaiUas);
